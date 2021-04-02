@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "node",
+    "baseUrl": "./",
+    "paths": {
+      "@assets/*": ["./assets/*"],
+      "@components/*": ["./components/*"],
+      "@constants/*": ["./constants"],
+      "@context/*": ["./context/*"],
+      "@helpers/*": ["./helpers/*"],
+      "@screens/*": ["./screens/*"],
+      "@hooks/*": ["./hooks/*"]
+    }
+  },
+  "include": []
+}
